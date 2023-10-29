@@ -1,0 +1,17 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 300px;
+    height:350px;
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 10px;
+  }
+  .img {
+    padding: 10px;
+  }
+  .container {
+    padding: 1px;
+    margin: 5px;
+  
+  }
+  
